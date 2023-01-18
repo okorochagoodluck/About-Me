@@ -20,7 +20,7 @@
     <h3><a href="Education.html">Education</a></h3>
     
     <h3><a href="Work Experience.html">Work Experience</a></h3>
-    <h3><a href="Contact.html">Contact Me</a></h3>
+    <h3><a href="contact.html">Contact Me</a></h3>
     <h3>Skills</h3>
     <table cellspacing="10" border="1">
         <tr>
